@@ -1,2 +1,2 @@
-CENG-432
+Scala Challenge Exercises
 ========

@@ -1,2 +1,2 @@
-Scala Challenge Exercises
+Scala Exercises
 ========
